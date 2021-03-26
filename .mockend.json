@@ -1,8 +1,8 @@
 {
-  "Units": {
+  "Unit": {
     "name": "string",
     "description": "string",
     "isActive": "boolean",
-    "createdAt": "date",
+    "createdAt": "date"
   }
 }
